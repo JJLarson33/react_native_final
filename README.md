@@ -32,4 +32,4 @@ next, enter into bash, the command below -
 ### `npm install`
 
 next, enter into bash, the command below -
-###`npx expo start`
+### `npx expo start`
