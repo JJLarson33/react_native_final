@@ -26,10 +26,10 @@ These instructions are for running the project on a pc or similar device, the ab
 
 Open project folder with IDE of choice (recommended: Visual Studio Code)
 enter into bash, the command below - 
-###`npm install -g expo-cli`
+### `npm install -g expo-cli`
 
 next, enter into bash, the command below -
-###`npm install`
+### `npm install`
 
 next, enter into bash, the command below -
 ###`npx expo start`
