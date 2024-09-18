@@ -9,7 +9,7 @@ The final project result from a react native application class. A basic list app
 - - - -
 ![picture alt](list_screen.jpg "The List Screen")
 - - - -
-![picture alt](register_screen.png "The Register Screen")
+![picture alt](register_screen.jpg "The Register Screen")
 - - - -
 
 ## Requirements
